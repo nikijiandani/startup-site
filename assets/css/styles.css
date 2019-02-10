@@ -48,7 +48,7 @@ hr {
     border: 0;
     margin-bottom: 50px;
 }
-section h3 .title {
+section h3.title{
     text-transform: capitalize;
     font: bold 32px "Open Sans", sans-serif;
     margin-bottom: 30px;
@@ -163,4 +163,11 @@ a {
 .packages .grid li h4 {
     font-size: 30px;
     margin: 25px 0;
+}
+/* Testimonials Section */
+.testimonials .quote {
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1.5;
+    margin: 40px 0 25px;
 }
